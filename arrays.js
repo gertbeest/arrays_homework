@@ -18,3 +18,8 @@ console.log(pins)
 //it shifts the remaining 3 to the left in position
 hasRsvped.shift()
 console.log(hasRsvped)
+
+//a note on index position - on line 1, the fridge variable has an array 
+//of foods it contains, and each one has an index position starting with
+//milk being number 0, yogurt being 1, pepperonis being 2, and gatorade
+//being 3.
